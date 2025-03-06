@@ -124,4 +124,4 @@ Thanks for checking out this Linked List implementation in C++! Contributions an
 
 ---
 
-⭐️ If you like this project, consider giving it a star on [GitHub](https://github.com/NirjharDebnath/linked-list-cpp)!
+⭐️ If you like this project, consider giving it a star on [GitHub]((https://github.com/NirjharDebnath/Data_structures/blob/main/Python_List_LinkedList/Python_List.cpp))!
