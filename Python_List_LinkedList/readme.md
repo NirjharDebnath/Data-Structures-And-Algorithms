@@ -39,7 +39,7 @@ void print();                   // Print the linked list
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/linked-list-cpp.git
+git clone [https://github.com/your-username/linked-list-cpp.git](https://github.com/NirjharDebnath/Data_structures/blob/main/Python_List_LinkedList/Python_List.cpp)
 cd linked-list-cpp
 ```
 
@@ -124,4 +124,4 @@ Thanks for checking out this Linked List implementation in C++! Contributions an
 
 ---
 
-⭐️ If you like this project, consider giving it a star on [GitHub]((https://github.com/NirjharDebnath/Data_structures/blob/main/Python_List_LinkedList/Python_List.cpp))!
+⭐️ If you like this project, consider giving it a star on [GitHub](https://github.com/NirjharDebnath/Data_structures/blob/main/Python_List_LinkedList/Python_List.cpp)!
